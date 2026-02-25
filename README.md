@@ -163,7 +163,7 @@ Issues are being tracked via the [GitHub Issues](https://github.com/Unity-Billal
 Note about `.tmLanguage` related issues
 --------------
 As the TypeScript and TypeScriptReact `.tmLanguage` definition files are shared across multiple editors including Sublime Text, Atom-TypeScript, and Visual Studio Code, we decided to create a dedicated repo for these files to combine the efforts for improvement.
-The new repo is at https://github.com/Microsoft/TypeScript-TmLanguage, and all future tmLanguage-related issues will be tracked there and ported back to this repo.
+The new repo is at https://github.com/Unity-Billal-mesloub/TypeScript-TmLanguage, and all future tmLanguage-related issues will be tracked there and ported back to this repo.
 
 Tips and Known Issues
 ----
