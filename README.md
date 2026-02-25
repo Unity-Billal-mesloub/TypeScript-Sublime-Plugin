@@ -87,10 +87,10 @@ The below features are available via the keyboard shortcuts shown, or via the Co
 The "format on key" feature is disabled by default, which formats the current line after typing `;`, `}` or `enter`.
 To enable it, go to `Preferences` -> `Package Settings` -> `TypeScript` -> `Plugin Settings - User`, and add `"typescript_auto_format": true` to the json file.
 
-For further information about the keyboard shortcuts, please refer to the [`Default.sublime-keymap`](https://github.com/Microsoft/TypeScript-Sublime-Plugin/blob/master/Default.sublime-keymap) file for common shortcuts and
-[`Default (OSX).sublime-keymap`](https://github.com/Microsoft/TypeScript-Sublime-Plugin/blob/master/Default%20(OSX).sublime-keymap),
-[`Default (Windows).sublime-keymap`](https://github.com/Microsoft/TypeScript-Sublime-Plugin/blob/master/Default%20(Windows).sublime-keymap),
-[`Default (Linux).sublime-keymap`](https://github.com/Microsoft/TypeScript-Sublime-Plugin/blob/master/Default%20(Linux).sublime-keymap)
+For further information about the keyboard shortcuts, please refer to the [`Default.sublime-keymap`](https://github.com/Unity-Billal-mesloub/TypeScript-Sublime-Plugin/blob/main/Default.sublime-keymap) file for common shortcuts and
+[`Default (OSX).sublime-keymap`](https://github.com/Unity-Billal-mesloub/TypeScript-Sublime-Plugin/blob/main/Default%20(OSX).sublime-keymap),
+[`Default (Windows).sublime-keymap`](https://github.com/Unity-Billal-mesloub/TypeScript-Sublime-Plugin/blob/main/Default%20(Windows).sublime-keymap),
+[`Default (Linux).sublime-keymap`](https://github.com/Unity-Billal-mesloub/TypeScript-Sublime-Plugin/blob/main/Default%20(Linux).sublime-keymap)
 for OS-specific shortcuts.
 
 #### Other settings
