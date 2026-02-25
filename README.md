@@ -11,7 +11,7 @@ Requirements
 The plug-in uses **Node.js** to run the TypeScript server.  The plug-in looks for node in the PATH environment variable (which is inherited from Sublime).
 
 If the `node_path` setting is present, this will override the PATH environment variable and the plug-in will use the value of the `node_path` setting as the node executable to run.
-See more information in [our Tips and Known Issues](https://github.com/Microsoft/TypeScript-Sublime-Plugin/wiki/Tips-and-Known-Issues) wiki page.
+See more information in [our Tips and Known Issues](https://github.com/Unity-Billal-mesloub/TypeScript-Sublime-Plugin/wiki/Tips-and-Known-Issues) wiki page.
 
 Using different versions of TypeScript
 --------------
@@ -30,14 +30,14 @@ Alternatively, you can clone the repo directly into your Sublime plugin folder. 
 
 ```
 cd ~/"Library/Application Support/Sublime Text 3/Packages"
-git clone --depth 1 https://github.com/Microsoft/TypeScript-Sublime-Plugin.git TypeScript
+git clone --depth 1 https://github.com/Unity-Billal-mesloub/TypeScript-Sublime-Plugin.git TypeScript
 ```
 
 And on Windows:
 
 ```
 cd "%APPDATA%\Sublime Text 3\Packages"
-git clone --depth 1 https://github.com/Microsoft/TypeScript-Sublime-Plugin.git TypeScript
+git clone --depth 1 https://github.com/Unity-Billal-mesloub/TypeScript-Sublime-Plugin.git TypeScript
 ```
 
 (`--depth 1` downloads only the current version to reduce the clone size.)
@@ -158,7 +158,7 @@ Screenshots
 
 Reporting Issues
 -------
-Issues are being tracked via the [GitHub Issues](https://github.com/Microsoft/TypeScript-Sublime-Plugin/issues) page for the project, and tagged with the appropriate issue type. Please do log issues for any bugs you find or enhancements you would like to see (after searching to see if such as issue already exists).  We are excited to get your feedback and work with the community to make this plugin as awesome as possible.
+Issues are being tracked via the [GitHub Issues](https://github.com/Unity-Billal-mesloub/TypeScript-Sublime-Plugin/issues) page for the project, and tagged with the appropriate issue type. Please do log issues for any bugs you find or enhancements you would like to see (after searching to see if such as issue already exists).  We are excited to get your feedback and work with the community to make this plugin as awesome as possible.
 
 Note about `.tmLanguage` related issues
 --------------
@@ -167,5 +167,5 @@ The new repo is at https://github.com/Microsoft/TypeScript-TmLanguage, and all f
 
 Tips and Known Issues
 ----
-See tips and known issues in the [wiki page](https://github.com/Microsoft/TypeScript-Sublime-Plugin/wiki/Tips-and-Known-Issues).
+See tips and known issues in the [wiki page](https://github.com/Unity-Billal-mesloub/TypeScript-Sublime-Plugin/wiki/Tips-and-Known-Issues).
 
